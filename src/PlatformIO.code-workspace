@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "ESP32 Swimming",
+			"path": "../../ESP32 Swimming"
+		},
+		{
+			"name": "ESPNow Sender",
+			"path": "../../ESPNow Sender"
+		},
+		{
+			"name": "ESPNow Receiver",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
